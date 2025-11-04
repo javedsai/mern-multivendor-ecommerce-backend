@@ -1,0 +1,7 @@
+# ============================
+# Node.js / Express.js Project
+# ============================
+
+# dependencies
+/node_modules
+.env
