@@ -118,12 +118,15 @@ Server runs at:
 
 ## 🧑‍💻 About the Developer
 
-**Author:** Javed Sai  
-**Role:** Technical Lead / Full-Stack Developer  
-**Experience:** 14+ years in software and web development, skilled in PHP, Laravel, React, Node.js, MONGODB, and REST API integration.  
+Hi, I'm **Javed Sai** — a passionate **Full Stack Developer** with expertise in **PHP, Laravel, React, and Node.js**.
+I love building scalable web applications and APIs that deliver real business value.
 
-🔗 **LinkedIn:** [linkedin.com/in/javedsai](https://linkedin.com/in/javedsai)  
-<!-- 💼 **Portfolio:** [my_profile](#) -->
+## 📬 Contact Me
+
+🔗 LinkedIn: <a href="https://linkedin.com/in/javedsai" target="_blank">linkedin.com/in/javedsai</a>
+💻 GitHub: <a href="https://github.com/javedsai" target="_blank">github.com/javedsai</a>
+📧 Email: <a href="mailto:javedsai@gmai.com" target="_blank">javedsai@gmail.com
+</a>
 
 ---
 
