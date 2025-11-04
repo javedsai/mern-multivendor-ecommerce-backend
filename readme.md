@@ -30,7 +30,7 @@ It powers essential eCommerce functionalities such as product management, vendor
 | Authentication | JSON Web Token (JWT) |
 | Password Hashing | bcrypt |
 | Environment Variables | dotenv |
-| API Testing | Postman / Thunder Client |
+| API Testing | Postman |
 | Version Control | Git & GitHub |
 
 ---
