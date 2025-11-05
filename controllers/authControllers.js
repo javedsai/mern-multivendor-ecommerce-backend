@@ -40,7 +40,22 @@ class authControllers {
         } catch (error) {
             responseReturn(res,500,{error: error.message})
         }
-    }
+    }//EO admin_login method
+
+    getUser = async (req, res) => {
+        const {id, role} = req
+
+        try {
+            if (role === 'admin') {
+                const user = await adminModel.findById(id)
+                responseReturn(res,200,{userInfo: user})
+            } else {
+                console.log('Seller Info Page')
+            }
+        } catch (error) {
+            console.log(error.message)
+        }
+    }//EO get_user method
 }     
 
 module.exports = new authControllers()
