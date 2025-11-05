@@ -112,7 +112,7 @@ Server runs at:
 - 📦 Implement inventory & shipping modules  
 - 📊 Add analytics dashboard for vendors  
 - 🧾 Generate invoices and sales reports  
-- ☁️ Deploy backend to Render / Railway / AWS EC2  
+- ☁️ Deploy backend to AWS EC2  
 
 ---
 

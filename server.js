@@ -13,6 +13,9 @@ app.use(cors({
 app.use(bodyParser.json())
 app.use(cookieParser())
 
+//used to run api on postman otherwise postman gets request body as undefined. Later add this in middleware
+app.use(express.json());
+
 app.use('/api', require('./routes/authRoutes'))
 app.get('/', (req, res) => res.send('Hello Server'))
 
